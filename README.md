@@ -11,7 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<<<<<<< HEAD
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nigel-rodriguez-20922188/" target="blank"><img align="center" src="./images/linkedin-logo.png" alt="https://www.linkedin.com/in/nigel-rodriguez-20922188/" height="30" width="40" /></a>
+=======
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nigel-rodriguez-20922188/" target="blank"><img align="center" src="/images/linkedin_logo.png" alt="https://www.linkedin.com/in/nigel-rodriguez-20922188/" height="30" width="40" /></a>
+>>>>>>> 9fb714c (Initial commit)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
