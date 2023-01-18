@@ -18,13 +18,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="/images/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="/images/css-logo.svg" alt="css3" width="40" height="40"/>
-    <img src="/images/git-logo.svg" alt="git" width="40" height="40"/>
     <img src="/images/html-logo.svg" alt="html5" width="40" height="40"/>
-    <img src="/images/js-logo.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="/images/react-logo.svg" alt="react" width="40" height="40"/>
+    <img src="/images/css-logo.svg" alt="css3" width="40" height="40"/>
     <img src="/images/sass-logo.svg" alt="sass" width="40" height="40"/>
+    <img src="/images/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="/images/js-logo.svg" alt="javascript" width="40" height="40"/>
+    <img src="/images/react-logo.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="/images/git-logo.svg" alt="git" width="40" height="40"/>
     <img src="/images/webpack-logo.svg" alt="webpack" width="40" height="40"/>
 </p>
